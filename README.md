@@ -23,3 +23,11 @@ The new unreleased candidate replaces all three Windows-specific proprietary fon
 
 Do not publish the old v1.0.0 ZIP because it still includes Microsoft/DynaLab font material.
 See FONT_RIGHTS_NOTICE.md and RELEASE_NOTES_v1.0.1_draft.md.
+
+## v1.0.2 — Corrected menu font modes (draft)
+
+- Work Sans: Work Sans for Latin characters, Noto Sans CJK TC for Chinese.
+- Minecraft: Minecraft vanilla font/Unifont fallback without a forced Noto override.
+- Both options are the original SAOUI font choices; saved preference remains in config/saoui-font.json.
+- Validated offline with V12 but not yet visually approved in the game client.
+- Release is a draft; assets remain unavailable for public auto-download pending remaining redistribution review.

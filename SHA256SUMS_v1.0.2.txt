@@ -1,0 +1,2 @@
+11a56662116fc05224d63bb7c973959d6764ae6a9cf0f4d1286cc5a5269372af  SAO_ZH_Pack_v1.0.2_font_modes_candidate.zip
+60f032b10310b5ed6c801f9b0dc0f934794adbb3d720d06dea991821e85a4e99  SAO_ZH_v12_support.zip
