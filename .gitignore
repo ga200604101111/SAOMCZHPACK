@@ -1,0 +1,10 @@
+*.jar
+*.zip
+*.7z
+*.exe
+*.log
+*credentials*
+*.token
+*.pending
+__pycache__/
+cache/
