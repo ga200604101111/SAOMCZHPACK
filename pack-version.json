@@ -1,20 +1,22 @@
 {
   "schema_version": 1,
-  "pack_version": "1.0.0",
+  "pack_version": "1.0.1",
   "locale": "zh_tw",
   "min_agent_version": 12,
   "resource_packs": {
     "available": false,
-    "reason": "GitHub release is a draft; republishing third-party font and game assets requires rights review.",
+    "reason": "Open-font candidate in a private draft; confirm third-party asset rights and complete real Minecraft visual tests before enabling public downloads.",
     "main": {
-      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.0/SAO_TW_v9.zip",
-      "size_bytes": 303533824,
-      "sha256": "d6e4794ed883245cfbfc95460cf99a806d213956a1e7c98b34a4d8470f276442"
+      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.1/SAO_ZH_Pack_v1.0.1_public_candidate.zip",
+      "size_bytes": 303870304,
+      "sha256": "bbc7c11fc59ecc7bc8da307af902e22be54b52ae8f86a68c017221ef914bd0fa"
     },
     "support": {
-      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.0/SAO_ZH_v12_support.zip",
+      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.1/SAO_ZH_v12_support.zip",
       "size_bytes": 23631,
       "sha256": "60f032b10310b5ed6c801f9b0dc0f934794adbb3d720d06dea991821e85a4e99"
     }
-  }
+  },
+  "font_license": "SIL OFL 1.1 (Noto Sans CJK TC); see licenses/noto-cjk/OFL-1.1.txt inside the pack.",
+  "visual_tested": false
 }

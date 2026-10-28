@@ -15,3 +15,11 @@ resource_packs.available is false until Release is published. Draft assets are n
 ## Copyright and permissions
 
 The archive contains language overrides, textures, large MSDF images and typefaces from several modules. Inclusion here does NOT mean original authors granted redistribution rights. No original mod JAR files are part of this repository.
+
+
+## v1.0.1 open-font candidate
+
+The new unreleased candidate replaces all three Windows-specific proprietary font files and rebuilds Chinese MSDF glyph atlases from OFL-licensed Noto Sans CJK. The main ZIP and matching support ZIP are preserved in a private draft Release until full copyright and real-game visual verification.
+
+Do not publish the old v1.0.0 ZIP because it still includes Microsoft/DynaLab font material.
+See FONT_RIGHTS_NOTICE.md and RELEASE_NOTES_v1.0.1_draft.md.
