@@ -35,3 +35,7 @@ See FONT_RIGHTS_NOTICE.md and RELEASE_NOTES_v1.0.1_draft.md.
 ## v1.0.3 — Full Noto fallback & compact stats (draft)
 
 The 26 optimized MSDF atlases are retained. Work Sans mode now uses renamed Noto CJK Regular/Bold static fallback fonts with 44,813 mapped codepoints each. Minecraft mode still uses vanilla/Unifont. Selected narrow HUD labels were shortened to 技暴率 and 技暴傷. The release stays a draft until visual and rights verification.
+
+## v1.0.4 — PUA glyph fallback for Minecraft mode (draft)
+
+Three previously unmapped U+E900–U+E902 Chinese alias glyphs now render in the Minecraft font mode through a minimal Noto-derived bitmap provider, leaving the rest of the vanilla/Unifont fallback unchanged. Full CJK Noto fonts and shorter SAO stat labels are retained. Release remains unpublished pending visual and rights review.

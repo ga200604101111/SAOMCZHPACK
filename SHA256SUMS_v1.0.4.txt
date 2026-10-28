@@ -1,0 +1,2 @@
+c2fe17a93eb98c290b60cf11ba9b26c4979d493385ecab14f7838bdb996d1c0b  SAO_ZH_Pack_v1.0.4_complete_font_fallback_candidate.zip
+60f032b10310b5ed6c801f9b0dc0f934794adbb3d720d06dea991821e85a4e99  SAO_ZH_v12_support.zip
