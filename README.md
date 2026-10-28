@@ -31,3 +31,7 @@ See FONT_RIGHTS_NOTICE.md and RELEASE_NOTES_v1.0.1_draft.md.
 - Both options are the original SAOUI font choices; saved preference remains in config/saoui-font.json.
 - Validated offline with V12 but not yet visually approved in the game client.
 - Release is a draft; assets remain unavailable for public auto-download pending remaining redistribution review.
+
+## v1.0.3 — Full Noto fallback & compact stats (draft)
+
+The 26 optimized MSDF atlases are retained. Work Sans mode now uses renamed Noto CJK Regular/Bold static fallback fonts with 44,813 mapped codepoints each. Minecraft mode still uses vanilla/Unifont. Selected narrow HUD labels were shortened to 技暴率 and 技暴傷. The release stays a draft until visual and rights verification.

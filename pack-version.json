@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "pack_version": "1.0.2",
+  "pack_version": "1.0.3",
   "locale": "zh_tw",
   "min_agent_version": 12,
   "resource_packs": {
     "available": false,
-    "reason": "Private draft: Noto CJK public candidate with separate Work Sans and vanilla Minecraft font modes; copyright and in-game visual release review still pending.",
+    "reason": "Private draft: broad Noto CJK Unicode fallback and compact stat labels. Real-game font rendering and remaining asset rights are not yet fully verified.",
     "main": {
-      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.2/SAO_ZH_Pack_v1.0.2_font_modes_candidate.zip",
-      "size_bytes": 303870050,
-      "sha256": "11a56662116fc05224d63bb7c973959d6764ae6a9cf0f4d1286cc5a5269372af"
+      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.3/SAO_ZH_Pack_v1.0.3_full_cjk_compact_stats_candidate.zip",
+      "size_bytes": 322152407,
+      "sha256": "523eac41b5065fb48cdab871cde9d67b9106bab54c64954b8ae76781105c6ebf"
     },
     "support": {
-      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.2/SAO_ZH_v12_support.zip",
+      "url": "https://github.com/ga200604101111/SAOMCZHPACK/releases/download/v1.0.3/SAO_ZH_v12_support.zip",
       "size_bytes": 23631,
       "sha256": "60f032b10310b5ed6c801f9b0dc0f934794adbb3d720d06dea991821e85a4e99"
     }
@@ -34,5 +34,17 @@
         "custom_icons": "retained"
       }
     }
+  },
+  "font_coverage": {
+    "noto_ttf_codepoints": 44813,
+    "scanned_translation_values": 10389,
+    "cjk_missing_in_scanned_translations": 0,
+    "fallback": "Minecraft default and Unifont for other characters"
+  },
+  "stat_short_labels": {
+    "skill_critical_chance": "技暴率",
+    "skill_critical_damage": "技暴傷",
+    "critical_chance": "暴率",
+    "critical_damage": "暴傷"
   }
 }
