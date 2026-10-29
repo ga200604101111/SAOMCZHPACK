@@ -1,0 +1,2 @@
+424d40a8d5e4dae07c9d67fb7df6d5fe41c0c3d2a9b7d24c071ff5c22edf2940  SAO_ZH_Pack_v1.0.5_font_reload_repair.zip
+60f032b10310b5ed6c801f9b0dc0f934794adbb3d720d06dea991821e85a4e99  SAO_ZH_v15_support.zip
